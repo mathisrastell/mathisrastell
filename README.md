@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mathisrastell
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Computer science
